@@ -1,0 +1,9 @@
+/* this is the global css
+it include the things are common in all components */
+input{
+    width: 100%;
+}
+
+.kg-row{
+    margin:10px 5px
+}
